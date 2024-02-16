@@ -1,0 +1,9 @@
+{
+	"name": "ingestaAdventure",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9e84371-fc7c-45fb-9e75-8e02f17e2010",
+		"tenantId": "a2ba4345-7764-4d22-b6a1-7cf528f3b3a5"
+	}
+}
